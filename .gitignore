@@ -294,5 +294,4 @@ __pycache__/
 .vscode/
 
 # Custom configurations
-/ScheduledNotificationsSender/appsettings.json
 
