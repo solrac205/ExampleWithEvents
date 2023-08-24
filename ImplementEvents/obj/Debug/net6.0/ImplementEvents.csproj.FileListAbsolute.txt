@@ -2,7 +2,6 @@
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/bin/Debug/net6.0/ImplementEvents.deps.json
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/bin/Debug/net6.0/ImplementEvents.runtimeconfig.json
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/bin/Debug/net6.0/ImplementEvents.dll
-/Users/secureip/Projects/ExampleWithEvents/ImplementEvents/bin/Debug/net6.0/ref/ImplementEvents.dll
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/bin/Debug/net6.0/ImplementEvents.pdb
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/obj/Debug/net6.0/ImplementEvents.csproj.AssemblyReference.cache
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/obj/Debug/net6.0/ImplementEvents.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/obj/Debug/net6.0/ref/ImplementEvents.dll
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/obj/Debug/net6.0/ImplementEvents.pdb
 /Users/secureip/Projects/ExampleWithEvents/ImplementEvents/obj/Debug/net6.0/ImplementEvents.genruntimeconfig.cache
+/Users/secureip/Projects/ExampleWithEvents/ImplementEvents/obj/Debug/net6.0/refint/ImplementEvents.dll

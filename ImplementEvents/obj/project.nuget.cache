@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/44A680rIdMqrQfP7NDx+ulRQFMLnQrQFTFz1rJ9yn56LUFaMP8xGVOCyq8Eg2lbzyLx8hirNwTruzZBz5vnTQ==",
+  "dgSpecHash": "3sbyra98hBaUJofUHUqWbneCDYlLNPrLTMGe+o1oDSTCovF5TUXXqMCv0Jm+HC9qHYuZGxO6Gp/y9D3EaH1hvw==",
   "success": true,
   "projectFilePath": "/Users/secureip/Projects/ExampleWithEvents/ImplementEvents/ImplementEvents.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/secureip/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/secureip/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/secureip/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.19/microsoft.netcore.app.host.osx-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
